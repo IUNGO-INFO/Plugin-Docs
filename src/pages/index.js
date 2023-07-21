@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Welcome to ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="One stop shop for all IUNGO related documentation. <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
