@@ -41,7 +41,6 @@ endpoint: "api.iungobot.net" # Do not modify this value (used for debug and cust
 
 # Should we check for updates?
 Update-Notifier-Enabled: true
-
 ```
 
 Replace "xxxxxxxxxxxxxxx" with your respective GuildID and API Token.

@@ -53,7 +53,7 @@ const config = {
             'https://github.com/IUNGO-INFO/BedWars1058-Discord',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          //customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
@@ -69,7 +69,7 @@ const config = {
         title: 'IUNGO',
         logo: {
           alt: 'IUNGO',
-          src: 'img/IUNGO.png',
+          src: 'https://media.discordapp.net/attachments/457898495358271488/1131848333141495838/iungo-mascot_1.png?width=352&height=352',
         },
         items: [
           {
@@ -79,7 +79,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/IUNGO-INFO/BedWars1058-Discord',
+            href: 'https://github.com/IUNGO-INFO/Plugin-Docs/',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,16 +115,21 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/IUNGO-INFO/BedWars1058-Discord',
+                href: 'https://github.com/IUNGO-INFO/Plugin-Docs/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} IUNGO, Inc.`,
+        copyright: `Copyright © 2018-${new Date().getFullYear()} IUNGO, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
     }),
 };
