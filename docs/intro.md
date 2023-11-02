@@ -18,7 +18,7 @@ We are continually developing new products and services to enrich your Minecraft
 
 ## Join Our Community on Discord
 
-Connect with fellow Minecraft enthusiasts and stay updated with the latest news, releases, and announcements by joining our [Discord server](https://discord.gg/iungo). Become a part of the growing IUNGO community and engage in discussions about Minecraft, our products, and all things gaming.
+Connect with fellow Minecraft enthusiasts and stay updated with the latest news, releases, and announcements by joining our [Discord server](https://discord.gg/893Fk6rKac). Become a part of the growing IUNGO community and engage in discussions about Minecraft, our products, and all things gaming.
 
 
 

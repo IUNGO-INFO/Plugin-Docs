@@ -102,7 +102,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/IUNGO',
+                href: 'https://discord.gg/893Fk6rKac',
               },
             ],
           },

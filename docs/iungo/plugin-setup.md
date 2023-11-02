@@ -57,6 +57,6 @@ Once the IUNGO Music Integration plugin is configured, you can use various comma
 
 For a list of available commands and their usage, use the `/iungo help` command or continue reading for detailed documentation.
 
-Congratulations! You have successfully set up the IUNGO Music Integration plugin for Minecraft and Discord. Now you can enjoy seamless music playback directly from Minecraft to your Discord channels. Should you have any questions or need further assistance, feel free to visit the IUNGO Bot support [Discord](https://discord.gg/iungo) or refer to the provided documentation.
+Congratulations! You have successfully set up the IUNGO Music Integration plugin for Minecraft and Discord. Now you can enjoy seamless music playback directly from Minecraft to your Discord channels. Should you have any questions or need further assistance, feel free to visit the IUNGO Bot support [Discord](https://discord.gg/893Fk6rKac) or refer to the provided documentation.
 
 Happy listening! 🎵🎶
