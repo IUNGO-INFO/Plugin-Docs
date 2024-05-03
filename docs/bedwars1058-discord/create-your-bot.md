@@ -15,11 +15,11 @@ This section is very important
 
 2. Click on the "New Application" button and give your application a name. This name will be your bot's name, so choose something related to BedWars1058, like **BedWars Bot**.
 
-![New Application](https://media.discordapp.net/attachments/457898495358271488/1131803671030669322/image.png?width=238&height=68)
+![New Application](https://cdn.iungo.tech/u/c28d4981-206b-4430-8bd0-4102d01489dc.png)
 
 3. Navigate to the **Bot** section on the left-hand side menu.
 
-![Bot Section](https://media.discordapp.net/attachments/457898495358271488/1131803296198312077/image.png?width=353&height=397)
+![Bot Section](https://cdn.iungo.tech/u/771260ca-24d9-4085-9c8e-dea358be7251.png)
 
 ## Step 2: Enable Privileged Gateway Intents
 
@@ -35,7 +35,7 @@ In order for your bot to work effectively with BedWars1058, you need to enable t
 3. Enable **MESSAGE CONTENT INTENT**:
    - In the same section, toggle ON the **Message Content Intent** option.
 
-   ![Privileged Gateway Intents](https://media.discordapp.net/attachments/457898495358271488/1131803998769385562/image.png?width=1290&height=488)
+   ![Privileged Gateway Intents](https://cdn.iungo.tech/u/1f3b635b-c9a9-47d6-b543-43d22f5f4c16.png)
 
 ## Step 3: Add the Bot to Your Discord Server
 

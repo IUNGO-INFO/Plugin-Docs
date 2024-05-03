@@ -16,11 +16,11 @@ To integrate your Discord bot with Minecraft, you need to configure the `config.
 
    - Enable Developer Mode in Discord: Go to **User Settings** > **Advanced** and toggle on **"Developer Mode"**
 
-   ![Developer Mode](https://media.discordapp.net/attachments/457898495358271488/1131808474800599140/image.png?width=822&height=149)
+   ![Developer Mode](https://cdn.iungo.tech/u/8ef3b17c-7789-4efe-b0d3-734f4de23953.png)
 
    - Right-click on the server's name and select "**Copy Server ID**"
 
-   ![Copy Server ID](https://media.discordapp.net/attachments/457898495358271488/1131808641704546486/image.png?width=224&height=56)
+   ![Copy Server ID](https://cdn.iungo.tech/u/9fd7e2ea-8d68-4b86-90e1-04bcbd5839a6.png)
 
 3. **Configure the `config.yml` File:**
 

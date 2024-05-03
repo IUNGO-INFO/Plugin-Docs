@@ -69,7 +69,7 @@ const config = {
         title: 'IUNGO',
         logo: {
           alt: 'IUNGO',
-          src: 'https://media.discordapp.net/attachments/457898495358271488/1131848333141495838/iungo-mascot_1.png?width=352&height=352',
+          src: 'https://cdn.iungo.tech/u/1QwtFA.png',
         },
         items: [
           {
